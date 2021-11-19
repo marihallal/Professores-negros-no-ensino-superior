@@ -20,3 +20,9 @@
 
 <h3> <a href="https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-da-educacao-superior/resultados">🔗 Censo da Educação Superior de 2012 a 2018, tabela "SUP_DOCENTE_2019.CSV"</a> </h3>
 <p> - Para mostrar a evolução da proporção de professores pretos e pardos ao longo dos anos </p>
+
+<h3> ufs_e_codigos</a> </h3>
+<p> - Nas tabelas do Censo não consta a sigla ou o nome da UF, apenas um código. Essa tabela ajuda a decodificar a informação </p>
+
+<h3> <a href="https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-da-educacao-superior/resultados">🔗 Dicionário de dados </a></h3>
+<p> - Dicionário de dados das tabelas do Censo </p>
