@@ -6,15 +6,17 @@
 
 <h2> Bases de dados utilizadas </h2>
 
-<h3> <a href="https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-da-educacao-superior/resultados">🔗 Censo da Educação Superior de 2019</a> </h3>
+<h3> <a href="https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-da-educacao-superior/resultados">🔗 Censo da Educação Superior de 2019, tabela "SUP_DOCENTE_2019.CSV"</a> </h3>
 <p> - Para calcular a proporção de professores negros em cada universidade; </p>
 <p> - Para definir o perfil do professor negro; </p>
 <p> - Para calcular a quantidade de professores negros em cada categoria administrativa (federal, municipal, estadual, privadas) </p>
 <p> * Os últimos dados divulgados pelo INEP são referentes a 2019 — o Censo de 2020 atrasou em razão da pandemia de covid-19. </p>
 
+<h3> <a href="https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-da-educacao-superior/resultados">🔗 Censo da Educação Superior de 2019, tabela "SUP_IES_2019.CSV"</a> </h3>
+<p> - Essa tabela mostra onde a IES está localizada (em qual UF), a sigla da IES e o nome da IES </p>
 
-<h3> <a href="https://sidra.ibge.gov.br/tabela/6408#resultado">🔗 PNAD Contínua 2019 do IBGE</a> </h3>
+<h3> <a href="https://sidra.ibge.gov.br/tabela/6408#resultado">🔗 PNAD Contínua 2019 do IBGE, tabela 6408</a> </h3>
 <p> - Estatísticas de raça por unidade da federação
 
-<h3> <a href="https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-da-educacao-superior/resultados">🔗 Censo da Educação Superior de 2012 a 2018</a> </h3>
+<h3> <a href="https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-da-educacao-superior/resultados">🔗 Censo da Educação Superior de 2012 a 2018, tabela "SUP_DOCENTE_2019.CSV"</a> </h3>
 <p> - Para mostrar a evolução da proporção de professores pretos e pardos ao longo dos anos </p>
