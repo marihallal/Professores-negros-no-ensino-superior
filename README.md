@@ -1,6 +1,7 @@
 <h1 align="center">Professores negros no Ensino Superior</h1>
 
 <p> A taxa de professores negros (pretos ou pardos) nas instituições de ensino superior brasileiras é baixíssima. Para ilustrar melhor o cenário, comparamos a <strong> proporção de professores negros em cada instituição </strong> com a <strong> proporção de habitantes negros na unidade da federação </strong> em que a instituição está localizada. </p>
+<p> O acesso de pessoas negras ao ensino superior e a programas de graduação avançou nos últimos anos, mas a porcentagem de docentes negros continuou praticamente estagnada. A análise não considera a porcentagem de pessoas negras "aptas" a assumir um cargo de docente universitário (até porque cada universidade tem um critério para isso). Mas tem por objetivo mostrar o potencial número de negros que, se tivessem as mesmas oportunidades que pessoas brancas, poderiam virar professores nas universidades. </p>
 <p> Especialistas falam que é importante haver equidade racial dentro das universidades para que os alunos se sintam acolhidos, consigam mostrar seus trabalhos e permaneçam no Ensino Superior. Além de melhorar a qualidade do ensino, a presença de professores negros pode contribuir para a diminuição da evasão.</p>
 <p> A análise considera <strong> adequada </strong> a universidade que possui proporção de docentes negros igual ou superior à proporção de habitantes negros na UF. </p>
 
